@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="TestOfCipherForEP\TestOfCipherForEP.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfCipherForEP\Program.cs">
+    <Files>
+      <File FileName="TestOfCipherForEP\Program.cs" Line="57" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

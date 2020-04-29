@@ -1,4 +1,0 @@
-C:\Users\Ashwin\Documents\Projects\TEMP\TEMP\bin\Debug\TEMP.exe
-C:\Users\Ashwin\Documents\Projects\TEMP\TEMP\bin\Debug\TEMP.pdb
-C:\Users\Ashwin\Documents\Projects\TEMP\TEMP\obj\x86\Debug\TEMP.exe
-C:\Users\Ashwin\Documents\Projects\TEMP\TEMP\obj\x86\Debug\TEMP.pdb
